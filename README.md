@@ -1,1 +1,2 @@
-I created this repo for all my friends who have an interest to Deep learning field. The repo contains awesome computer vision implementations done by various researchers. Enjoy with these works:)
+Thanks to Adrian at PyImageSearch. I found the below link so useful for the person who wants to do face mask detection.
+https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
